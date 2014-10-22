@@ -1,0 +1,19 @@
+body {
+	font-family: 'Helvetica';
+	font-size: 1.5em;
+	line-height: 125%
+	background-color: whitesmoke;
+	color: #666;
+}
+
+p.sans-serif{
+	font-family: 'Raleway', sans-serif; 
+}
+
+p.serif {
+	font-family: 'Arvo', serif;
+}
+
+p.script {
+	font-family: 'Lobster', cursive;
+}
